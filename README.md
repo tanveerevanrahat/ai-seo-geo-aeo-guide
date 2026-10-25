@@ -43,3 +43,9 @@ Classic SEO optimizes pages to rank. AI search optimizes entities to be cited. A
 ## About the author
 
 Tanveer Evan Rahat is an AI-driven SEO expert in Bangladesh and founder of NexaForge IT — 96K+ monthly organic traffic delivered, 8,000+ keywords ranked, Best SEO Expert at BIT Expo 2024 and ICT Expo 2024.
+
+## More guides
+
+- [Local SEO: How to Rank in Google's Map Pack (Top 3)](https://github.com/tanveerevanrahat/local-seo-google-maps-guide)
+- [How to Choose the Right SEO Expert in Bangladesh (2027)](https://github.com/tanveerevanrahat/seo-expert-bangladesh-guide)
+- [Tanveer Evan Rahat — profile README](https://github.com/tanveerevanrahat/tanveerevanrahat)
